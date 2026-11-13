@@ -29,7 +29,7 @@ Clean design. Live character tracking. Instant limit alerts.
 ---
 
 ## 🌐 Live Demo
-🔗 [View Live Project Here](https://github.io)
+🔗 [View Live Project Here](https://hemamalini8.github.io/Message-Counter-purple/)
 
 ---
 
